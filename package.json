@@ -1,0 +1,1 @@
+{'name': 'ip-quality-worker', 'version': '1.0.0', 'description': 'Cloudflare Worker for IP Quality API', 'main': 'worker.js', 'scripts': {'deploy': 'wrangler deploy', 'dev': 'wrangler dev'}, 'keywords': ['cloudflare', 'worker', 'ip', 'quality'], 'author': 'HEXUXIU', 'license': 'MIT'} 

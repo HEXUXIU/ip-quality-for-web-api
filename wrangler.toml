@@ -1,0 +1,9 @@
+name = "ip-quality-worker"  
+main = "worker.js"  
+compatibility_date = "2023-09-01"  
+  
+[build]  
+command = ""  
+  
+[env.production]  
+name = "ip-quality-worker" 
